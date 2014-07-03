@@ -1,0 +1,27 @@
+{
+  "name": "pvc-elements",
+  "version": "0.0.0",
+  "authors": [
+    "Michael Bleigh <mbleigh@mbleigh.com>"
+  ],
+  "description": "An aggregate package for all of the PVC elements.",
+  "main": "pvc-elements.html",
+  "keywords": [
+    "polymer",
+    "web-components",
+    "pvc"
+  ],
+  "license": "MIT",
+  "homepage": "http://pvc-elements.divshot.io/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    ".",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "pvc-globals": "divshot/pvc-globals#master"
+  }
+}
